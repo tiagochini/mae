@@ -1,0 +1,21 @@
+{
+    "name": "tiagochini/mae",
+    "description": "Demo effects in PHP and jQuery",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^5.1",
+        "components/jquery": "^3.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tiagochini\\Mae\\": "vendor/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Chini",
+            "email": "tiago.chini@hotmail.com"
+        }
+    ]
+}
